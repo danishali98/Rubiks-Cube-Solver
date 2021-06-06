@@ -20,13 +20,6 @@ In A* algorithm, we use a heuristic function to guide the search of the nodes un
 
 # Results
 
-Depth	  Nodes-Traversed	    Time (in seconds)
-	      IDS	    A*	          IDS	  A*
-1	      11	    2	            1	    1
-2	      103	    5	            1	    1
-3	      889	    7	            1	    <1
-4	      4660	  9	            1	    <1
-5	      95145	  25	          20	  3
-6	      909505	40	          197	  10
+<a href="https://ibb.co/1zwD1Bm"><img src="https://i.ibb.co/1zwD1Bm/Results-Rubiks-Cube.png" alt="Results-Rubiks-Cube" border="0"></a>
 
 As it is evident from the Results mentioned above, A* performs exceptionally well at depths of larger magnitude than IDS. A* traverses minimum nodes and takes much less time than IDS.
